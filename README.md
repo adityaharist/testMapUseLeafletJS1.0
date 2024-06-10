@@ -12,3 +12,6 @@ Logical multiple layer marker clustering via the leaflet marker cluster plugin
 Elegant client-side multi-layer feature search with autocomplete using typeahead.js
 Responsive sidebar feature list with sorting and filtering via list.js
 Marker icons included in grouped layer control via the grouped layer control plugin
+
+
+MIT License and Thanks to Bryan McBride to use his code (c)
