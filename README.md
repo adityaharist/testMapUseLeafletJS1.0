@@ -1,5 +1,5 @@
 # testMapUseLeafletJS1.0
-Planning Try on pada map Bandara Soekarno-Hatta
+Plan : Try on pada map Bandara Soekarno-Hatta (based on geojson Soetta) 
 
 Data sample masih pada area New York dengan poin-poinnya (marker) pada teater dan museum di sekitar New York dan mengambil geojson latitude, longitude Boroughs (Kota NY) dan Jalur Subway (NY) 
 
